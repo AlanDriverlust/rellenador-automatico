@@ -9,4 +9,3 @@ root.render(
         <RellenadorAutomatico />
     </React.StrictMode>
 );
-
