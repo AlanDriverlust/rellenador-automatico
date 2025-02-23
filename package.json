@@ -6,8 +6,7 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "lucide-react": "^0.268.0",
-    "@shadcn/ui": "^1.0.0"
+    "lucide-react": "^0.268.0"
   },
   "scripts": {
     "start": "react-scripts start",
