@@ -1,13 +1,5 @@
 import React, { useState } from 'react';
 
-const predefinedData = {
-  companyName: 'GLOBAL GRAFICA 2014 SL',
-  cif: 'B75599761',
-  address: 'Sicilia 265 Local, Barcelona (08025)',
-  responsiblePerson: 'Sergi Aymerich',
-  phone: '932381931',
-};
-
 export default function RellenadorAutomatico() {
   const [file, setFile] = useState(null);
 
@@ -31,4 +23,3 @@ export default function RellenadorAutomatico() {
     </div>
   );
 }
-
